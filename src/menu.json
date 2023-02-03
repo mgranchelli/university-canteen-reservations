@@ -1,0 +1,37 @@
+{
+    "Lunedì": {
+        "pranzo": {
+            "primi": [
+                "gnocchi",
+                "spaghetti"
+            ],
+            "secondi": [
+                "carne",
+                "pesce"
+            ],
+            "frutta": [
+                "mela"
+            ],
+            "dolce": [
+            ],
+            "bevande": [
+                "acqua"
+            ]
+        },
+        "cena": {
+            "primi": [
+            ],
+            "secondi": [
+                "pesce"
+            ],
+            "frutta": [
+                "pera"
+            ],
+            "dolce": [
+            ],
+            "bevande": [
+                "acqua"
+            ]
+        }
+    }
+}

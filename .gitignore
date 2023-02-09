@@ -1,5 +1,6 @@
+*.DS_Store
 *.csv
 *.py
 *.ipynb
 
-!mensa.py
+!mensa-*.py

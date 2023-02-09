@@ -17,12 +17,12 @@ $ pip install -r requirements.txt
 $ python3 mensa-interface.py
 ```
 <p float="left">
-    <img src="src/img/start-page.png" width="500">
-    <img src="src/img/student-info.png" width="500">
+    <img src="src/img/start-page.png" width="400">
+    <img src="src/img/student-info.png" width="400">
 </p>
 <p float="left">
-    <img src="src/img/selection-days.png" width="500">
-    <img src="src/img/selection-foods.png" width="500">
+    <img src="src/img/selection-days.png" width="400">
+    <img src="src/img/selection-foods.png" width="400">
 </p>
 
 
@@ -30,7 +30,7 @@ $ python3 mensa-interface.py
 $ python3 mensa-terminal.py
 ```
 <p float="left">
-    <img src="src/img/start-page-terminal.png" width="500">
-    <img src="src/img/student-days-terminal.png" width="500">
+    <img src="src/img/start-page-terminal.png" width="400">
+    <img src="src/img/student-days-terminal.png" width="400">
 </p>
-<img src="src/img/selection-foods-terminal.png" width="500">
+<img src="src/img/selection-foods-terminal.png" width="400">

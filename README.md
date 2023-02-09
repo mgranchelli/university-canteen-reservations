@@ -1,7 +1,7 @@
 # University canteen reservation
-Python project that allows to reserve food in the university canteen for a week.
+Python project that allows to reserve food in the university canteen for a week and to export reservations in a `csv` file.
 
-The menu of the week is a `json` file located in [src/menu.json](src/menu.json).
+The menu of the week is loaded from a `json` file located in [src/menu.json](src/menu.json).
 
 Tested with `Python 3.9.2` and `Pillow==9.4.0` on MacOSx.
 

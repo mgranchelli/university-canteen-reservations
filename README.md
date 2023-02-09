@@ -16,11 +16,21 @@ $ pip install -r requirements.txt
 ```bash
 $ python3 mensa-interface.py
 ```
-<img src="src/img/start-page.png" width="300">
-<img src="src/img/student-info.png" width="300">
-<img src="src/img/selection-days.png" width="300">
-<img src="src/img/selection-foods.png" width="300">
+<p float="left">
+    <img src="src/img/start-page.png" width="300">
+    <img src="src/img/student-info.png" width="300">
+</p>
+<p float="left">
+    <img src="src/img/selection-days.png" width="300">
+    <img src="src/img/selection-foods.png" width="300">
+</p>
+
 
 ```bash
 $ python3 mensa-terminal.py
 ```
+<p float="left">
+    <img src="src/img/start-page-terminal.png" width="300">
+    <img src="src/img/student-days-terminal.png" width="300">
+    <img src="src/img/selection-foods-terminal.png" width="300">
+</p>

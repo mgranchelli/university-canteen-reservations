@@ -9,7 +9,7 @@ class Mensa():
     def __init__(self):
         self.nome = "Mensa Dipartimento"
         self.indirizzo = "Via del corso, numero"
-        self.immagine = Image.open("src/logo-univaq.png").resize((100,100))
+        self.immagine = Image.open("src/university-logo.png").resize((100,100))
         self.prenotazioni = []
         self.menu_settimana = Menu()
 
@@ -318,6 +318,6 @@ class MensaApp:
         b1.pack()
 
 root = tk.Tk()
-root.title("Mensa Univaq")
+root.title("Mensa")
 MensaApp(root)
 root.mainloop()

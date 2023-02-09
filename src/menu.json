@@ -2,35 +2,213 @@
     "Lunedì": {
         "pranzo": {
             "primi": [
-                "gnocchi",
-                "spaghetti"
+                "Riso",
+                "Pasta"
             ],
             "secondi": [
-                "carne",
-                "pesce"
+                "Carne",
+                "Pesce"
             ],
             "frutta": [
-                "mela"
+                "Mela",
+                "Pera"
             ],
             "dolce": [
+                "Yogurt",
+                "Budino"
+ 
             ],
             "bevande": [
-                "acqua"
+                "Acqua"
             ]
         },
         "cena": {
             "primi": [
             ],
             "secondi": [
-                "pesce"
+                "Carne",
+                "Pesce"
             ],
             "frutta": [
-                "pera"
+                "Banana",
+                "Pera"
             ],
             "dolce": [
+                "Yogurt",
+                "Budino"
             ],
             "bevande": [
-                "acqua"
+                "Acqua"
+            ]
+        }
+    },
+    "Martedì": {
+        "pranzo": {
+            "primi": [ 
+                "Riso",
+                "Pasta"
+            ],
+            "secondi": [
+                "Legumi",
+                "Pesce"
+            ],
+            "frutta": [
+                "Mela",
+                "Banana"
+            ],
+            "dolce": [
+                "Yogurt",
+                "Budino"
+                  
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        },
+        "cena": {
+            "primi": [
+            ],
+            "secondi": [
+                "Frittata",
+                "Pesce"
+            ],
+            "frutta": [
+                "Mela",
+                "Pera"
+            ],
+            "dolce": [
+                "Yogurt",
+                "Budino"
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        }
+    },
+    "Mercoledì": {
+        "pranzo": {
+            "primi": [
+                "Pasta",
+                "Riso"
+            ],
+            "secondi": [ 
+                "Carne",
+                "Pesce"
+            ],
+            "frutta": [
+                "Mela",
+                "Pera"
+            ],
+            "dolce": [
+                   "Yogurt",
+                   "Budino"
+            ],
+            "bevande": [
+                   "Acqua"
+            ]
+        },
+        "cena": {
+            "primi": [
+            ],
+            "secondi": [
+                "Carne",
+                "Pesce"
+            ],
+            "frutta": [
+                "Mela",
+                "Pera"
+            ],
+            "dolce": [
+                "Yogurt",
+                "Budino"
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        }
+    },
+    "Giovedì": {
+        "pranzo": {
+            "primi": [
+                "Gnocchi",
+                "Riso"
+            ],
+            "secondi": [
+                "Carne",
+                "Pesce"
+            ],
+            "frutta": [
+                "Banana",
+                "Arancia"
+            ],
+            "dolce": [
+                "Yogurt",
+                "Budino"
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        },
+        "cena": {
+            "primi": [
+                "Minestra"
+            ],
+            "secondi": [
+                "Zuppa di legumi",
+                "Carne"
+            ],
+            "frutta": [
+                "Banana",
+                "Pera"
+            ],
+            "dolce": [
+                "Yogurt",
+                "Budino"
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        }
+    },
+    "Venerdì": {
+        "pranzo": {
+            "primi": [
+                "Riso",
+                "Pasta"
+            ],
+            "secondi": [
+                "Pesce",
+                "Frittata"
+            ],
+            "frutta": [
+                "Mela",
+                "Pesce"
+            ],
+            "dolce": [
+                "Torta",
+                "Yogurt"
+            ],
+            "bevande": [
+                "Acqua"
+            ]
+        },
+        "cena": {
+            "primi": [
+            ],
+            "secondi": [
+                "Pesce",
+                "Sformato"
+            ],
+            "frutta": [
+                "Mela",
+                "Banana"
+            ],
+            "dolce": [
+                "Budino",
+                "Torta"
+            ],
+            "bevande": [
+                "Acqua"
             ]
         }
     }
